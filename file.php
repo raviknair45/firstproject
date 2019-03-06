@@ -4,4 +4,6 @@ echo 'new line 1';
 
 this is for commit 3
 
+issue is fixed
+
 ?>
